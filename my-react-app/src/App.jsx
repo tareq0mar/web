@@ -6,6 +6,8 @@ function App() {
   return (
     <div>
       <WebSecurityGuide />
+    </div>
+    <div>
       <OSStudyGuide />
     </div>
   )
